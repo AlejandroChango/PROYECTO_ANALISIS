@@ -21,7 +21,10 @@ Power Bi:
 es una plataforma unificada y escalable de inteligencia empresarial (BI) con funciones de autoservicio apta para grandes empresas. Conéctese a los datos, visualícelos e incorpore sin problemas objetos visuales en las aplicaciones que usa todos los días.
 ![image](https://github.com/AlejandroChango/PROYECTO_ANALISIS/assets/117754050/d255d0d0-c8f1-48f5-a649-7a18b760b2a1)
  Relación entre bases de datos 
- 
+ ![image](https://github.com/AlejandroChango/PROYECTO_ANALISIS/assets/117754050/2a479205-527e-44ad-8e43-b9939bb9f89b)
+VIstas en power bi
+![image](https://github.com/AlejandroChango/PROYECTO_ANALISIS/assets/117754050/1dcf09bf-711d-46e3-aba0-f397029bfcaf)
+
 
 parte 1
 
