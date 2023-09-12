@@ -18,13 +18,17 @@ Mongo DB:base de datos no relacional
 MongoDB es una base de datos de documentos que ofrece una gran escalabilidad y flexibilidad, y un modelo de consultas e indexación avanzado.
 ![image](https://github.com/AlejandroChango/PROYECTO_ANALISIS/assets/117754050/f1e3d7d9-c363-4dc6-8a11-8f55c2498fba)
 Power Bi:
-es una plataforma unificada y escalable de inteligencia empresarial (BI) con funciones de autoservicio apta para grandes empresas. Conéctese a los datos, visualícelos e incorpore sin problemas objetos visuales en las aplicaciones que usa todos los días.
+es una plataforma unificada y escalable de inteligencia empresarial (BI) con funciones de autoservicio apta para grandes empresas. Conéctese a los datos, visualícelos e incorpore sin problemas objetos visuales en las aplicaciones que usa todos los días.\n
 ![image](https://github.com/AlejandroChango/PROYECTO_ANALISIS/assets/117754050/d255d0d0-c8f1-48f5-a649-7a18b760b2a1)
- Relación entre bases de datos 
+ Relación entre bases de datos \n
  ![image](https://github.com/AlejandroChango/PROYECTO_ANALISIS/assets/117754050/2a479205-527e-44ad-8e43-b9939bb9f89b)
-VIstas en power bi
+VIstas en power bi\n
 ![image](https://github.com/AlejandroChango/PROYECTO_ANALISIS/assets/117754050/1dcf09bf-711d-46e3-aba0-f397029bfcaf)
 
+\n Conexion MONGO DB \n
+![image](https://github.com/AlejandroChango/PROYECTO_ANALISIS/assets/117754050/0aeb5219-92b5-4cf4-b924-350f5bdac452)
+\n Carga Cassandra \n
+![image](https://github.com/AlejandroChango/PROYECTO_ANALISIS/assets/117754050/9d05016b-c3be-413b-93da-9b5054756f33)
 
 parte 1
 
