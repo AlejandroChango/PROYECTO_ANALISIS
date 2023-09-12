@@ -1,7 +1,7 @@
 # PROYECTO_ANALISIS
 ANALISIS DE DATOS CON PYTHON Y CASSANDRA, COUCHDB, SQL SERVER Y POWER BI
 Herramientas utilizadas \n
-CASSANDRA:base de datos no relacional 
+CASSANDRA:base de datos no relacional \n
 Se trata de un software NoSQL distribuido y basado en un modelo de almacenamiento «tabular», de código abierto que está escrito en Java. Permite grandes volúmenes de datos en forma distribuida. Por ejemplo, lo usa Twitter para su plataforma. Su objetivo principal es la escalabilidad lineal y la disponibilidad. La arquitectura distribudores de Cassandra está basada en una serie de nodos iguales que se comunican con un protocolo P2P con lo que la redundancia es máxima. Esta soportada por la Apache Software Fundation.
 videos \n
 ![image](https://github.com/AlejandroChango/PROYECTO_ANALISIS/assets/117754050/07351ee3-331c-427f-8939-2dd5768cf5d7)\n
