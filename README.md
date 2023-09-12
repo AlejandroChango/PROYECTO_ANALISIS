@@ -77,6 +77,6 @@ https://youtu.be/az8NAVDbW1A?si=G2Lufq-zBbIMr9I9</br>
 
 parte 2</br>
 
-https://youtu.be/btpk1aA3pdg?si=4qcxQBWqUnDnFOdU</br
+https://youtu.be/btpk1aA3pdg?si=4qcxQBWqUnDnFOdU</br>
 Power BI
 https://app.powerbi.com/view?r=eyJrIjoiNDQyZTBhM2EtNmYyYS00NzVhLTk1NDktZmNkNDk2N2E3MjI5IiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
